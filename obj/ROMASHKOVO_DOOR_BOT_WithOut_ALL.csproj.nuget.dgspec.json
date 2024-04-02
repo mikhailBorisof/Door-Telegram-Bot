@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mishamisha/myPrograms/Door Telegram Bot /ROMASHKOVO_DOOR_BOT_WithOut_ALL.csproj": {}
+  },
+  "projects": {
+    "/Users/mishamisha/myPrograms/Door Telegram Bot /ROMASHKOVO_DOOR_BOT_WithOut_ALL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mishamisha/myPrograms/Door Telegram Bot /ROMASHKOVO_DOOR_BOT_WithOut_ALL.csproj",
+        "projectName": "ROMASHKOVO_DOOR_BOT_WithOut_ALL",
+        "projectPath": "/Users/mishamisha/myPrograms/Door Telegram Bot /ROMASHKOVO_DOOR_BOT_WithOut_ALL.csproj",
+        "packagesPath": "/Users/mishamisha/.nuget/packages/",
+        "outputPath": "/Users/mishamisha/myPrograms/Door Telegram Bot /obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mishamisha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Speech": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[16.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

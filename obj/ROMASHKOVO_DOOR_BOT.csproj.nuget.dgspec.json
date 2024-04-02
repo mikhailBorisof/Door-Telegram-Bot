@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mishamisha/myProgramms/c# romashkovo door bot/ROMASHKOVO_DOOR_BOT — without ALL/ROMASHKOVO_DOOR_BOT/ROMASHKOVO_DOOR_BOT.csproj": {}
+  },
+  "projects": {
+    "/Users/mishamisha/myProgramms/c# romashkovo door bot/ROMASHKOVO_DOOR_BOT — without ALL/ROMASHKOVO_DOOR_BOT/ROMASHKOVO_DOOR_BOT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mishamisha/myProgramms/c# romashkovo door bot/ROMASHKOVO_DOOR_BOT — without ALL/ROMASHKOVO_DOOR_BOT/ROMASHKOVO_DOOR_BOT.csproj",
+        "projectName": "ROMASHKOVO_DOOR_BOT",
+        "projectPath": "/Users/mishamisha/myProgramms/c# romashkovo door bot/ROMASHKOVO_DOOR_BOT — without ALL/ROMASHKOVO_DOOR_BOT/ROMASHKOVO_DOOR_BOT.csproj",
+        "packagesPath": "/Users/mishamisha/.nuget/packages/",
+        "outputPath": "/Users/mishamisha/myProgramms/c# romashkovo door bot/ROMASHKOVO_DOOR_BOT — without ALL/ROMASHKOVO_DOOR_BOT/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mishamisha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Speech": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[16.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
