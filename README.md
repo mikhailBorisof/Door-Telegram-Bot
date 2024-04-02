@@ -6,4 +6,4 @@ A bot designed to notify users when a new guest has arrived and the purpose of t
 The bot's main functions include: 
 - Receiving messages from guests
 - Playing a ringtone when a call is received
-- Enabling/disabling Do Not Disturb mode
+- Enabling/disabling/change the operating time for Do Not Disturb mode 
